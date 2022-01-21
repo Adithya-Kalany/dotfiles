@@ -13,7 +13,7 @@
  
 #### Welcome to my dotfiles!
  <i>"This dotfiles contains my personal configurations, wallpapers and scripts.
- That in its whole, makes up for my (almost) ideale setup.
+ That in its whole, makes up for my (almost) ideal setup.
  This setup has taken a lot of time and effort to make but it was worth it in the end."</i>  
 
 ##### Setup:
